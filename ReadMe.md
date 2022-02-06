@@ -23,7 +23,7 @@
 ![Main Method](TypeInput.png)
 
 * Coverage 
-<![Main Method](Coverage.png)>
+![Main Method](Coverage.png)
 
 
 ## Technologies:
