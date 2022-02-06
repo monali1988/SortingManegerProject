@@ -10,6 +10,8 @@
 * Phase 4: I have Integrated a new class to implement a binary search tree approach for sorting.
 * Phase 5: Added timing information to the project and allow the user to select multiple algorithms to compare their performance.
 
+### How-to-use
+
 
 ## Technologies:
 
