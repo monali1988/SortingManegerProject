@@ -15,9 +15,9 @@
 <![Main Method](MainSort.png)>
 
 * Second Stage
-### Enter Bubble -> b
-### Enter Merge -> m
-### Enter Binary Tree -> t
+* Enter Bubble -> b
+* Enter Merge -> m
+* Enter Binary Tree -> t
 <![Main Method](Binary Sort.png)>
 ## Technologies:
 
