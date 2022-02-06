@@ -22,6 +22,9 @@
 * Enter Numbers 
 ![Main Method](Type Input.png)
 
+* Coverage 
+<![Main Method](Coverage.png)>
+
 
 ## Technologies:
 
