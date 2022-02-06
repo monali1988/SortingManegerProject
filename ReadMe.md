@@ -18,7 +18,7 @@
 * Enter Bubble -> b
 * Enter Merge -> m
 * Enter Binary Tree -> t
-<![Input](BinarySort.png)>
+<![Input](Binary Sort.png)>
 ## Technologies:
 
 Project is created with:
