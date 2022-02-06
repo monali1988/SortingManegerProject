@@ -14,7 +14,7 @@
 ### Run Main Sort Method 
 <![Main Method](MainSort.png)>
 
-##Second Stage
+### Second Stage
 * Enter Bubble -> b
 * Enter Merge -> m
 * Enter Binary Tree -> t
