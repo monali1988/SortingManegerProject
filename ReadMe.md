@@ -20,7 +20,7 @@
 * Enter Binary Tree -> t
 ![Main Method](BinarySort.png)
 * Enter Numbers 
-![Main Method](Type Input.png)
+![Main Method](TypeInput.png)
 
 * Coverage 
 <![Main Method](Coverage.png)>
