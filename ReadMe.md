@@ -18,10 +18,11 @@
 * Enter Bubble -> b
 * Enter Merge -> m
 * Enter Binary Tree -> t
-![Main Method](Binary Sort.png)
+<![Main Method](Binary Sort.png)>
 * Enter Numbers 
-* ![Main Method](Type Input.png)
-* 
+![Main Method](Type Input.png)
+<![Main Method](MainSort.png)>
+
 ## Technologies:
 
 Project is created with:
