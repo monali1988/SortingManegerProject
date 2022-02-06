@@ -11,7 +11,7 @@
 * Phase 5: Added timing information to the project and allow the user to select multiple algorithms to compare their performance.
 
 ### How-to-use
-<img src="Binary Sort.jpg" alt="Alt text" title="Binary Sort">
+<![Main Method](Binary Sort.jpg) title="Binary Sort">
 
 ## Technologies:
 
