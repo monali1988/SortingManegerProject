@@ -11,8 +11,14 @@
 * Phase 5: Added timing information to the project and allow the user to select multiple algorithms to compare their performance.
 
 ### How-to-use
+### Run Main Sort Method 
 <![Main Method](MainSort.png)>
 
+* Second Stage
+### Enter Bubble -> b
+### Enter Merge -> m
+### Enter Binary Tree -> t
+<![Main Method](Binary Sort.png)>
 ## Technologies:
 
 Project is created with:
